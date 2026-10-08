@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="file_card_stroke">#E0E4EA</color>
+    <color name="file_thumb_bg">#EEF1F6</color>
+    <color name="file_text_primary">#1F2937</color>
+    <color name="file_text_secondary">#6B7280</color>
+    <color name="file_accent">#3F51B5</color>
+    <color name="file_danger">#D32F2F</color>
+</resources>
